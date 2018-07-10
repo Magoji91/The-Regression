@@ -9,7 +9,7 @@ i)…. variable and number of tickets sold is the
 
 ii)…. variable.
 
-) Response, ii) Predictor
+Correct - i) Predictor, ii) Response
 
 2. Question 2
 Yoncebé is selling tickets for her new tour. She wants to see the change in ticket sales, as a result of price.
@@ -27,6 +27,8 @@ You want to find the values for the equation ŷ_i = a + bx_i
 y^i	=a+bxi	 
 What is the value of the slope?
 
+-0.3600823
+
 4. Question 4
 A farmer is having problems with birds eating her crops. She tries putting up different numbers of scarecrows to keep the birds away. The average number of crops eaten is 200, and the average number of scarecrows she has put up is 20.
 
@@ -37,19 +39,22 @@ What is the value of the intercept?
 
 5. Question 5
 Which of the following regression models apply to the population?
+Select all that apply.
+Error -  - a b d
 
-Select all that apply. - a b d
+Error - a - d
 
 6. Question 6
 Why do we model the population mean in regression?
-Because there is too much error in the sample to explain the dependent variable value at the population level, and this error is different from the error in the population.
+
+Correct - Because we assume the dependent variable is normally distributed at each level of the independent variable in the population and the line goes through these means.
 
 7. Question 7
 You noticed that the bus is a lot more crowded when the weather is bad, and decided to run a regression analysis of amount of rainfall, and the number of people on the bus.
 
 You found a positive relationship, and want to know how much of the variation in number of people on the bus can be explained by rainfall. Which of the following tells you this?
 
-Regression sum of squares
+Correct - R-squared
 
 8. Question 8
 You noticed that the bus is a lot more crowded when the weather is bad, and decided to run a regression analysis of amount of rainfall, and the number of people on the bus.
@@ -71,15 +76,36 @@ People seem to have less accidents when there are stop signs around. Your friend
 
 Which of the following potential pitfalls apply to your friend’s statement?
 
+Error
 There is an outlier.
 The relationship is not linear.
+Restriction of range.
+
+Error
+The relationship is not linear.
+Correlation is not causation.
+Ecological fallacy.
+
+Error
+The relationship is not linear.
+Correlation is not causation.
 Restriction of range.
 
 10. Question 10
 You measured the amount of time 20 people wait at traffic lights on the way to work, and how angry they are when they arrive. As you expected, there was a positive relationship between time spent waiting at lights, and anger levels. You found a b-value of 7.2, with a standard error of 2.8.
 
+ 
 Which of the following statements are correct? Select all that apply.
-We reject the null hypothesis.
+
+Error - We reject the null hypothesis.
+
+Error
+p > 0.05
+We accept the null hypothesis.
+
+Error
+p < 0.05
+We accept the null hypothesis.
 
 11. Question 11
 You examine the relationship between body fat and exercise patterns, in a sample of 100 people. Your slope value was -10.3, with a standard error of 6.06. The t-value for your df associated with a significance level of 95% is 1.99.
@@ -87,19 +113,29 @@ You examine the relationship between body fat and exercise patterns, in a sample
 Calculate a confidence interval for your test statistic.
 Does the value 0 fall within your confidence interval?
 
-No, 0 is outside of the confidence interval.
+Correct - Yes, 0 is inside the confidence interval.
 
 12. Question 12
 To help reduce the effects of violating some regression assumptions, a researcher uses a very large sample size, and a two-sided test. This helps to avoid violating which of the following assumptions?
 
 Select all that apply.
 
+Error
 Outliers
+Homoscedasticity of errors
+
+Error
+Linearity
+Outliers
+
+Error
+Linearity
 Homoscedasticity of errors
 
 13. Question 13
 Which of the following assumptions does the data in this graph violate?
-Homoscedasticity of errors
+
+Correct - Outliers
 
 14. Question 14
 You read about some research into the relationship between height and shoe size. The 95% confidence interval for the predicted population mean is [10.65, 18.32].
@@ -117,7 +153,11 @@ Correct - Prediction Interval
 16. Question 16
 Which formula best suits this graph?
 
-ŷ = a + bx 
+Error - ŷ = a + bx 
+
+Error - μy=α+βx
+
+Y​	 =αβx
 
 17. Question 17
 A celebrity called Wayne East has been having some money problems recently. He is thinking of investing in the greatest record in the world, and wants to know how the value will change over time. He has an exponential regression model where his predictor is time in months, and response variable is money, measured in thousands of dollars. The alpha value is 4.2, and beta is 1.03.
