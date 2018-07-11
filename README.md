@@ -30,7 +30,7 @@ Correlation - -0.5
 sd - 4.86
 sd - 3.5
 
-a=r(sy/sx)
+r<- cor/raiz(sy/sx)
 
 4. Question 4
 A farmer is having problems with birds eating her crops. She tries putting up different numbers of scarecrows to keep the birds away. The average number of crops eaten is 200, and the average number of scarecrows she has put up is 20.
@@ -50,6 +50,8 @@ Error - a - d
 Error - b, c, e
 
 Error - b, c
+
+Error - a, b, c
 
 6. Question 6
 Why do we model the population mean in regression?
@@ -106,6 +108,11 @@ Restriction of range.
 Error
 There is an outlier.
 Correlation is not causation.
+Restriction of range.
+
+Error
+There is an outlier.
+Ecological fallacy.
 Restriction of range.
 
 10. Question 10
