@@ -32,12 +32,18 @@ sd - 3.5
 
 r<- cor/raiz(sy/sx)
 
+4,2525
+
+
 4. Question 4
 A farmer is having problems with birds eating her crops. She tries putting up different numbers of scarecrows to keep the birds away. The average number of crops eaten is 200, and the average number of scarecrows she has put up is 20.
 
 The farmer finds some of the linear regression equation:
 number of crops eaten = a - 0.8*(number of scarecrows).
 What is the value of the intercept?
+
+178,4
+
 
 
 5. Question 5
@@ -167,6 +173,9 @@ Correct - μy​=αβ^x
 A celebrity called Wayne East has been having some money problems recently. He is thinking of investing in the greatest record in the world, and wants to know how the value will change over time. He has an exponential regression model where his predictor is time in months, and response variable is money, measured in thousands of dollars. The alpha value is 4.2, and beta is 1.03.
 
 Based on this model, how much money (in thousands) will he have after six months?
+
+12,17866988
+
 
 
 
