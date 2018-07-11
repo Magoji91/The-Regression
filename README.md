@@ -13,10 +13,9 @@ Correct - i) Predictor, ii) Response
 
 2. Question 2
 Yoncebé is selling tickets for her new tour. She wants to see the change in ticket sales, as a result of price.
-
 Based on data from previous tours, Yoncebé has found the regression equation: number of tickets = 3000 - 7.3x, where x = ticket price.
-
 If Yoncebé prices the tickets at $50, how many tickets is she predicted to sell?
+
 Correct - 2635
 
 
@@ -27,7 +26,11 @@ You want to find the values for the equation ŷ_i = a + bx_i
 y^i	=a+bxi	 
 What is the value of the slope?
 
--0.3600823
+Correlation - -0.5
+sd - 4.86
+sd - 3.5
+
+a=r(sy/sx)
 
 4. Question 4
 A farmer is having problems with birds eating her crops. She tries putting up different numbers of scarecrows to keep the birds away. The average number of crops eaten is 200, and the average number of scarecrows she has put up is 20.
@@ -43,6 +46,10 @@ Select all that apply.
 Error -  - a b d
 
 Error - a - d
+
+Error - b, c, e
+
+Error - b, c
 
 6. Question 6
 Why do we model the population mean in regression?
@@ -91,25 +98,28 @@ The relationship is not linear.
 Correlation is not causation.
 Restriction of range.
 
+Error
+The relationship is not linear.
+Ecological fallacy.
+Restriction of range.
+
+Error
+There is an outlier.
+Correlation is not causation.
+Restriction of range.
+
 10. Question 10
 You measured the amount of time 20 people wait at traffic lights on the way to work, and how angry they are when they arrive. As you expected, there was a positive relationship between time spent waiting at lights, and anger levels. You found a b-value of 7.2, with a standard error of 2.8.
-
  
 Which of the following statements are correct? Select all that apply.
 
-Error - We reject the null hypothesis.
-
-Error
-p > 0.05
-We accept the null hypothesis.
-
-Error
+Correct:
 p < 0.05
-We accept the null hypothesis.
+We reject the null hypothesis.
+
 
 11. Question 11
 You examine the relationship between body fat and exercise patterns, in a sample of 100 people. Your slope value was -10.3, with a standard error of 6.06. The t-value for your df associated with a significance level of 95% is 1.99.
-
 Calculate a confidence interval for your test statistic.
 Does the value 0 fall within your confidence interval?
 
@@ -120,17 +130,9 @@ To help reduce the effects of violating some regression assumptions, a researche
 
 Select all that apply.
 
-Error
+Correct:
+Normality
 Outliers
-Homoscedasticity of errors
-
-Error
-Linearity
-Outliers
-
-Error
-Linearity
-Homoscedasticity of errors
 
 13. Question 13
 Which of the following assumptions does the data in this graph violate?
@@ -139,7 +141,6 @@ Correct - Outliers
 
 14. Question 14
 You read about some research into the relationship between height and shoe size. The 95% confidence interval for the predicted population mean is [10.65, 18.32].
-
 What does this mean?
 
 Correct -In 95% of repeated samples, the population mean shoe size will lie in the interval, so we find it plausible that mean shoe size lies between 10.65 and 18.32.
@@ -153,11 +154,7 @@ Correct - Prediction Interval
 16. Question 16
 Which formula best suits this graph?
 
-Error - ŷ = a + bx 
-
-Error - μy=α+βx
-
-Y​	 =αβx
+Correct - μy​=αβ^x
 
 17. Question 17
 A celebrity called Wayne East has been having some money problems recently. He is thinking of investing in the greatest record in the world, and wants to know how the value will change over time. He has an exponential regression model where his predictor is time in months, and response variable is money, measured in thousands of dollars. The alpha value is 4.2, and beta is 1.03.
