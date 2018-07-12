@@ -44,14 +44,19 @@ What is the value of the intercept?
 Which of the following regression models apply to the population?
 Select all that apply.
 Error -  - a b d
-
 Error - a - d
-
 Error - b, c, e
-
 Error - b, c
-
 Error - a, b, c
+Error a. b e
+Error a - c - e
+Error - acd
+
+
+
+uy=a+Bx
+y=a+Bx
+y=a+Bx+E
 
 6. Question 6
 Why do we model the population mean in regression?
@@ -115,6 +120,22 @@ There is an outlier.
 Ecological fallacy.
 Restriction of range.
 
+Error
+There is an outlier.
+The relationship is not linear.
+Correlation is not causation.
+
+Error
+There is an outlier.
+Correlation is not causation.
+Ecological fallacy.
+
+Error
+Correlation is not causation.
+Ecological fallacy.
+Restriction of range.
+
+
 10. Question 10
 You measured the amount of time 20 people wait at traffic lights on the way to work, and how angry they are when they arrive. As you expected, there was a positive relationship between time spent waiting at lights, and anger levels. You found a b-value of 7.2, with a standard error of 2.8.
  
@@ -164,9 +185,9 @@ Which formula best suits this graph?
 Correct - μy​=αβ^x
 
 17. Question 17
-A celebrity called Wayne East has been having some money problems recently. He is thinking of investing in the greatest record in the world, and wants to know how the value will change over time. He has an exponential regression model where his predictor is time in months, and response variable is money, measured in thousands of dollars. The alpha value is 4.2, and beta is 1.03.
+A celebrity called Wayne East has been having some money problems recently. He is thinking of investing in the greatest record in the world, and wants to know how the value will change over time. He has an exponential regression model where his predictor is time in months, and response variable is money, measured in thousands of dollars. ths?
+The alpha value is 4.2, and beta is 1.03.
 
-Based on this model, how much money (in thousands) will he have after six months?
-
+Based on this model, how much money (in thousands) will he have after six mon
 
 
