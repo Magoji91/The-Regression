@@ -51,6 +51,7 @@ Error - a, b, c
 Error a. b e
 Error a - c - e
 Error - acd
+c - e
 
 
 
